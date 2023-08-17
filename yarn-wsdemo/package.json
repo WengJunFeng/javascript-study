@@ -1,0 +1,8 @@
+{
+  "name": "yarn-wsdemo",
+  "packageManager": "yarn@3.5.1",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
